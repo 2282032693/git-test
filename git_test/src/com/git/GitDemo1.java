@@ -24,6 +24,9 @@ public class GitDemo1 {
         System.out.println("aaaaaa");
     }
 
+    /**
+     * 测试用
+     */
     public void test(){
         int i = 10;
         System.out.println(50);
