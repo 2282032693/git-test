@@ -20,4 +20,9 @@ public class gitDemo1 {
         System.out.println("aaaaaa");
         System.out.println("aaaaaa");
     }
+
+    public void test(){
+        int i = 10;
+        System.out.println(50);
+    }
 }
